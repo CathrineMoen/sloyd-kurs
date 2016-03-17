@@ -4,3 +4,6 @@ Eksempel på redigering av dokumenter. Klikket på "blyanten". Vi skal nå se p�
 Skla lage et repository på Python etter hvert. 
  
 `this is the end`
+
+Neida, dette er 
+###begynnelsen
